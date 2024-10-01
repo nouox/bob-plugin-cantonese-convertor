@@ -1,0 +1,13 @@
+{
+    "identifier": "nouox.openai.cantonese_convertor",
+    "version": "0.1.0",
+    "category": "translate",
+    "name": "Cantonese Convertor",
+    "summary": "",
+    "icon": "",
+    "author": "nouox",
+    "homepage": "",
+    "appcast": "",
+    "minBobVersion": "0.5.0",
+    "options": []
+}
